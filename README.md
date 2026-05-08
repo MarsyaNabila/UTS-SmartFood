@@ -23,7 +23,8 @@ Aplikasi ini dibuat dengan tujuan:
 - Menjadi dasar pengembangan aplikasi kesehatan berbasis teknologi
 
 ## ClICKUP
-<img width="1818" height="743" alt="CLICKUP" src="https://github.com/user-attachments/assets/0e577b78-f9c2-4539-9801-39f95572e68c" />
+<img width="913" height="373" alt="image" src="https://github.com/user-attachments/assets/8f32fdfe-c735-41b8-bb12-69d9a3e98d94" />
+
 
 ## STORYBOARD 
 
