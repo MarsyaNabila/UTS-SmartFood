@@ -38,7 +38,8 @@ Aplikasi ini dibuat dengan tujuan:
 
 ## UI (User Interface)
 
-<img width="2470" height="1815" alt="UI" src="https://github.com/user-attachments/assets/5fc126c5-85d8-4383-9bba-7f858a8fea3e" />
+<img width="2470" height="1815" alt="Untitled (4)" src="https://github.com/user-attachments/assets/24673140-9315-4af4-b67f-a95c77bc33b2" />
+
 
 
 
